@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/default/angular.ts","./src/default/next.ts","./src/default/node.ts","./src/default/react.ts","./src/utils/config.ts","./src/utils/constant.ts","./src/utils/markdown.ts","./src/utils/prompt.ts","./src/utils/stripindent.ts"],"version":"5.8.3"}
